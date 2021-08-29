@@ -10,7 +10,7 @@ redirect_from:
 
 recent updates (September 2021)
 ------
- I am currently on sabbatical at Bocconi University's [Dondena Center] (https://www.dondena.unibocconi.eu/wps/wcm/connect/cdr/dondena/home) in Milan. 
+ I am currently on sabbatical at Bocconi University's [Dondena Centre](https://www.dondena.unibocconi.eu/wps/wcm/connect/cdr/dondena/home) in Milan. 
  Stay tuned for news about a forthcoming book and new projects. Expect that I will be slow to respond to email. 
  
 about me
@@ -21,4 +21,4 @@ My training is in two areas: social demography & the sociology of religion. Brid
 
 Before moving to UChicago, I was an Assistant Professor at [The Pennsylvania State University](https://www.psu.edu) and at [Arizona State University](https://www.asu.edu), where I was affiliated with the Center for Population Dynamics (sadly, now defunct). 
 
-I was trained in sociology & demography at The University of Texas at Austin's and received my BA from [Marquette University](https://marquette.edu).
+I was trained at The University of Texas at Austin's [Sociology Department](https://liberalarts.utexas.edu/sociology/) and [Population Research Center](https://liberalarts.utexas.edu/prc/) and received my BA from [Marquette University](https://marquette.edu).
