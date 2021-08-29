@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-recent updates
+recent updates (September 2021)
 ------
  I am currently on sabbatical at Bocconi University's [Dondena Center] (https://www.dondena.unibocconi.eu/wps/wcm/connect/cdr/dondena/home) in Milan. 
- Stay tuned for news about a forthcoming book and new projects and expect that I will be slow to respond to email. 
+ Stay tuned for news about a forthcoming book and new projects. Expect that I will be slow to respond to email. 
  
 about me
 ------
