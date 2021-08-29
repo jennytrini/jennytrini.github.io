@@ -15,10 +15,6 @@ Propsective students: I am not meeting with new students during sabbatical. Than
 ### Current Courses
 I am not teaching in AY 2021-22 
 
-### Previous Courses
-_____
-
-_____
 ### Workshops
 #### Population Research Center Demography Workshop
   - [**PRC Demography Workshop**](hhttps://voices.uchicago.edu/popcenter/workshops/demography-workshop/) - Hosted by the Population Research Center at the University of Chicago, this weekly workshop is where demographers gather to exchange ideas about works-in-progress. I expect the UChicago students I advise to attend regularly.
