@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-( skip to: [Office Hours](#calendar) | [Courses](#courses) | [for prospective students](#prospective) | [workshops](#workshops) | [letters of recommendation](#letters) | [syllabi](#syllabi) )
+( skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters of Recommendation](#letters) )
 
 
 ### Calendar
@@ -16,8 +16,7 @@ Propsective students: I am not meeting with new students during sabbatical. Than
 I am not teaching in AY 2021-22 
 
 ### Workshops
-#### Population Research Center Demography Workshop
-  - [**PRC Demography Workshop**](hhttps://voices.uchicago.edu/popcenter/workshops/demography-workshop/) - Hosted by the Population Research Center at the University of Chicago, this weekly workshop is where demographers gather to exchange ideas about works-in-progress. I expect the UChicago students I advise to attend regularly.
+  - [**PRC Demography Workshop**](https://voices.uchicago.edu/popcenter/workshops/demography-workshop/) Hosted by the Population Research Center at the University of Chicago, this weekly workshop is where demographers gather to exchange ideas about works-in-progress. I expect the UChicago students I advise to attend regularly.
   
 _____
 ### Prospective
