@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 Upcoming Talks
-
-November 2021: Max Plank Institute for Demographic Research (MPIDR)
+October 21, 2021: African Population History Network (APHiN)
+November 30, 2021: Max Plank Institute for Demographic Research (MPIDR)
 
 
 _____ 
