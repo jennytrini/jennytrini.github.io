@@ -22,4 +22,6 @@ This is an incomplete sample of recent and/or key papers of mine. For a complete
 ### 2019
 [Data Collection as Disruption.](https://journals.sagepub.com/doi/abs/10.1177/0003122419859574?journalCode=asra) American Sociological Review.
 
+### 2018
+[The Flexibility of Fertility Preferences in a Context of Uncertainty.](https://onlinelibrary.wiley.com/doi/full/10.1111/padr.12114) Population and Development Review.
 
