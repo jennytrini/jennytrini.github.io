@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters of Recommendation](#letters)
+skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 
 _____
@@ -19,7 +19,9 @@ I am not teaching in AY 2021-22
 
 _____
 ### Workshops
-  - [**PRC Demography Workshop**](https://voices.uchicago.edu/popcenter/workshops/demography-workshop/) Hosted by the Population Research Center at the University of Chicago, this weekly workshop is where demographers gather to exchange ideas about works-in-progress. I expect the UChicago students I advise to attend regularly.
+  [**PRC Demography Workshop**](https://voices.uchicago.edu/popcenter/workshops/demography-workshop/) Hosted by the Population Research Center at the University of Chicago, this weekly workshop is where demographers gather to exchange ideas about works-in-progress. I expect the UChicago students I advise to attend regularly.
+  
+  [**African Studies Workshop**](https://africanstudies.uchicago.edu/news/current-schedule/) A bi-weekly workshop hosted by the Committee on African Studies at the University of Chicago. Perhaps the longest-continuously-running workshop on our campus.
   
 _____
 ### Prospective
