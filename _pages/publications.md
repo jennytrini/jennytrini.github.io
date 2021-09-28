@@ -16,7 +16,7 @@ This is an incomplete sample of recent and/or key papers of mine. For a complete
 
 ### 2020
 [Mobile phones, digital inequality, and fertility: Longitudinal evidence from Malawi.](https://www.demographic-research.org/volumes/vol42/37/default.htm) Demographic Research.
-<br>
+
 [Maternal Cumulative Prevalence Measures of Child Mortality Show Heavy Burden in Sub-Saharan Africa.](https://doi.org/10.1073/pnas.1907343117) Proceedings of the National Academy of Sciences. 
 
 ### 2019
