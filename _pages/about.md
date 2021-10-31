@@ -25,5 +25,5 @@ I was trained at The University of Texas at Austin's [Sociology Department](http
 
 pronunciation guide
 ------
-I am a true "Jenny" (i.e,, not a Jennifer).
+I am a true "Jenny" (i.e., not a Jennifer).
 Last name is pronounced: [tri-ni-TA-po-li](https://forvo.com/word/trinitapoli/).
