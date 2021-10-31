@@ -23,6 +23,7 @@ Before moving to UChicago, I was an Assistant Professor at [The Pennsylvania Sta
 
 I was trained at The University of Texas at Austin's [Sociology Department](https://liberalarts.utexas.edu/sociology/) and [Population Research Center](https://liberalarts.utexas.edu/prc/) and received my BA from [Marquette University](https://marquette.edu).
 
-Pronunciation Guide:
+pronunciation guide
+------
 I am a true "Jenny" (i.e,, not a Jennifer).
 Last name is pronounced: [tri-ni-TA-po-li](https://forvo.com/word/trinitapoli/).
