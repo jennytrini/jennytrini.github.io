@@ -6,11 +6,15 @@ author_profile: true
 ---
 
 ## Upcoming Talks
-October 21, 2021: African Population History Network (APHiN)
+October 21, 2021: African Population History Network (APHiN) at the London School of Hygiene & Tropical Medicine
 
 November 30, 2021: Max Plank Institute for Demographic Research (MPIDR)
 
+February 2022: Wittengenstein Center for Demography and Human Capital, Vienna Institute
 
+March 8, 2022: The Graduate Institute of International and Development Studies (IHEID), Geneva
+
+March 28, 2022: Alp-Pop Conference Ski-Note address
 _____ 
 ## Archived Talks
 
