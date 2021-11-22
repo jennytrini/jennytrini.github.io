@@ -6,7 +6,6 @@ author_profile: true
 ---
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
-
 _____
 ### Office Hours
 Current students: To set an appointment during AY 2021-22, please use my [wejoinin calendar](https://www.wejoinin.com/sheets/cvllm).
