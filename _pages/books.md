@@ -8,7 +8,7 @@ author_profile: true
 _____
 ### An Epidemic of Uncertainty: Navigating HIV and Young Adulthood in Malawi
 
-Set in Balaka, Malawi, the book asks how young adults in this town negotiate relationships, sex, and childbearing with a severe AIDS epidemic swirling around them. The book covers marriage, fertility, HIV, and mortality and will be published in 2022. Data for this project come from a the Tsogolo La Thanzi study, fielded between 2009 and 2019. Beyond the specific case of HIV, An Epidemic of Uncertainty advances a new model for studying social life by emphasizing something that social scientists routinely omit from our theories, models, and measures – what people know they don’t know. The book offers readers: 1) an argument about uncertainty as a driving force in human behavior, 2) a focus on the life-or-death consequences of uncertainty with respect to HIV and AIDS in contemporary sub-Saharan Africa, and 3) unflinching portrayal of the research enterprise itself, based on a decade-long landmark study of young adulthood in Balaka.
+Set in Balaka, Malawi, the book asks how young adults in this town negotiate relationships, sex, and childbearing with a severe AIDS epidemic swirling around them. The book covers marriage, fertility, HIV, and mortality and will be published in 2023 by The University of Chicago Press. Data for this project come from a the [Tsogolo La Thanzi] (https://tsogololathanzi.uchicago.edu/) study, fielded between 2009 and 2019. Beyond the specific case of HIV, An Epidemic of Uncertainty advances a new model for studying social life by emphasizing something that social scientists routinely omit from our theories, models, and measures – what people know they don’t know. The book offers readers: 1) an argument about uncertainty as a driving force in human behavior, 2) a focus on the life-or-death consequences of uncertainty with respect to HIV and AIDS in contemporary sub-Saharan Africa, and 3) unflinching portrayal of the research enterprise itself, based on a decade-long landmark study of young adulthood in Balaka.
 
 ## Table of Contents:
 1. Introduction
@@ -24,7 +24,7 @@ Set in Balaka, Malawi, the book asks how young adults in this town negotiate rel
 _____
 ### Religion and AIDS in Africa
 
-My first book came about through a serendipitous series of collaborations, notably with Alexander Weinreb, Susan Watkins, and Mark Regnerus; the project relies on data from the Malawi Diffusion and Ideational Change Project and the Demographic and Health Surveys Program. You can find the book here or listen to Alex and I discuss it in a New Books Network podcast recorded back in 2012.
+My first book came about through a serendipitous series of collaborations, notably with Alexander Weinreb, Susan Watkins, and Mark Regnerus; the project relies on data from the Malawi Diffusion and Ideational Change Project and the Demographic and Health Surveys Program. You can find the book [here](https://global.oup.com/academic/product/religion-and-aids-in-africa-9780195335941?cc=us&lang=en&) or listen to Alex and I discuss it in a [New Books Network podcast](https://newbooksnetwork.com/jenny-trinitapoli-and-alexander-weinreb-religion-and-aids-in-africa-oxford-up-2012) recorded back in 2012.
 
 ## From the publisher:
 
