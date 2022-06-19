@@ -10,11 +10,15 @@ October 21, 2021: African Population History Network (APHiN) at the London Schoo
 
 November 30, 2021: Max Plank Institute for Demographic Research (MPIDR)
 
-February 2022: Wittengenstein Center for Demography and Human Capital, Vienna Institute
-
 March 8, 2022: The Graduate Institute of International and Development Studies (IHEID), Geneva
 
 March 28, 2022: Alp-Pop Conference Ski-Note address
+
+May 13 & 14, 2022: Department of Statistical Sciences, University of Padova
+
+May 31, 2022: Wittengenstein Center for Demography and Human Capital, Vienna Institute
+
+June 10, 2022: International and Interdisciplinary Seminar, University of Milan
 
 _____ 
 ## Archived Talks
