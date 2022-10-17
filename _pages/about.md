@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-recent updates (September 2021)
-------
- I am currently on sabbatical at Bocconi University's [Dondena Centre](https://www.dondena.unibocconi.eu/wps/wcm/connect/cdr/dondena/home) in Milan. 
- Stay tuned for news about a forthcoming book and new projects. Expect that I will be slow to respond to email. 
- 
 about me
 ------
 I am an Associate Professor in the [Department of Sociology](https://sociology.uchicago.edu/) at the [University of Chicago](https://www.uchicago.edu), where I also direct the [Center for International Social Science Research](https://cissr.uchicago.edu/). I recently completed a 5-year term as director of sociology's [undergraduate program](https://sociology.uchicago.edu/content/undergraduate-major-0), and I chair the Global Society Core sequence for the Social Sciences.

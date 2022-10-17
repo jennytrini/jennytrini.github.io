@@ -6,20 +6,13 @@ author_profile: true
 ---
 
 ## Upcoming Talks
-October 21, 2021: African Population History Network (APHiN) at the London School of Hygiene & Tropical Medicine
+October 13, 2023: Population Research Institute, Duke University
 
-November 30, 2021: Max Plank Institute for Demographic Research (MPIDR)
+October 21, 2023: UC Denver, Department of Health and Behavioral Sciences Colloquium
 
-March 8, 2022: The Graduate Institute of International and Development Studies (IHEID), Geneva
+Spring 2023 (date TBD): The Fertility and Reproduction Studies Group, Oxford University 
 
-March 28, 2022: Alp-Pop Conference Ski-Note address
-
-May 13 & 14, 2022: Department of Statistical Sciences, University of Padova
-
-May 31, 2022: Wittengenstein Center for Demography and Human Capital, Vienna Institute
-
-June 10, 2022: International and Interdisciplinary Seminar, University of Milan
-
+April 25, 2023: Office of Population Research, Princeton University
 _____ 
 ## Archived Talks
 

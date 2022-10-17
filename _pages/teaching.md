@@ -8,14 +8,18 @@ skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospect
 
 _____
 ### Office Hours
-Current students: To set an appointment during AY 2021-22, please use my [wejoinin calendar](https://www.wejoinin.com/sheets/cvllm).
+Current students: To set an appointment during AY 2022-23, please use my [wejoinin calendar](https://www.wejoinin.com/sheets/cvllm).
 <br>
 Propsective students: I am not meeting with new students during my sabbatical. Thank you for understanding!
 
 _____
-### Current Courses
-I am not teaching in AY 2021-22 
+### Current Courses AY 2022-23
+Autumn 2022: NONE
 
+Winter 2023: Data Analysis with Demographic and Health Surveys
+Winter 2023: Global Society II
+
+Spring 2023: NONE
 _____
 ### UChicago Workshops I Participate In
   [**PRC Demography Workshop**](https://voices.uchicago.edu/popcenter/workshops/demography-workshop/) Hosted by the Population Research Center at the University of Chicago, this weekly workshop is where demographers gather to exchange ideas about works-in-progress. I expect the UChicago students I advise to attend regularly.
