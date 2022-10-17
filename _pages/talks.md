@@ -13,6 +13,7 @@ October 21, 2023: UC Denver, Department of Health and Behavioral Sciences Colloq
 Spring 2023 (date TBD): The Fertility and Reproduction Studies Group, Oxford University 
 
 April 25, 2023: Office of Population Research, Princeton University
+
 _____ 
 ## Archived Talks
 

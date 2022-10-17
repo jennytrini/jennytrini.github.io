@@ -10,7 +10,6 @@ _____
 ### Office Hours
 Current students: To set an appointment during AY 2022-23, please use my [wejoinin calendar](https://www.wejoinin.com/sheets/cvllm).
 <br>
-Propsective students: I am not meeting with new students during my sabbatical. Thank you for understanding!
 
 _____
 ### Current Courses AY 2022-23
