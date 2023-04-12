@@ -32,6 +32,6 @@ This is an incomplete sample of recent and/or key papers of mine. For a complete
 [The Flexibility of Fertility Preferences in a Context of Uncertainty.](https://onlinelibrary.wiley.com/doi/full/10.1111/padr.12114) *Population and Development Review*.
 
 ### 2015
-AIDS & Religious Life in Malawi: Rethinking How Population Dynamics Shape Culture. *Population-e*.
+[AIDS & Religious Life in Malawi: Rethinking How Population Dynamics Shape Culture.](https://www.cairn-int.info/revue-population-2015-2-page-245.htm) *Population-e*.
 
 [Ideals as Anchors for Relationship Experiences.](http://asr.sagepub.com/content/80/3/496.short) *American Sociological Review*.

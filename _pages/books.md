@@ -26,6 +26,29 @@ _____
 
 My first book came about through a serendipitous series of collaborations, notably with Alexander Weinreb, Susan Watkins, and Mark Regnerus; the project relies on data from the Malawi Diffusion and Ideational Change Project and the Demographic and Health Surveys Program. You can find the book [here](https://global.oup.com/academic/product/religion-and-aids-in-africa-9780195335941?cc=us&lang=en&) or listen to Alex and I discuss it in a [New Books Network podcast](https://newbooksnetwork.com/jenny-trinitapoli-and-alexander-weinreb-religion-and-aids-in-africa-oxford-up-2012) recorded back in 2012.
 
+### Table of Contents:
+Introduction
+
+Part One / THE BASICS
+1. AIDS in Context
+2. Religious Patterns
+
+Part Two / UNDERSTANDING AIDS
+3. Interpreting the Epidemic
+4. Knowledge about HIV
+
+Part Three / PREVENTING HIV
+5. The ABCs of prevention
+6. Beyond ABC: Local prevention strategies
+7. Congregational Combinations
+
+Part Four / RESPONDING
+8. Stigma
+9. Safety nets
+10. Effects of AIDS on Religion
+
+Conclusions
+
 ### From the publisher:
 
 The African AIDS epidemic has sparked fierce debate over the role of religion. Some scholars and activists argue that religion is contributing to the spread of HIV and to the stigmatization of people living with AIDS. Others claim that religion reduces the spread of HIV and promotes care and support for the sick and their survivors. *Religion and AIDS in Africa* offers the first comprehensive empirical account of the impact of religion on the AIDS epidemic. Jenny Trinitapoli and Alexander Weinreb draw upon extensive fieldwork in Malawi, including hundreds of interviews with religious leaders and lay people, and survey data from more than 30 other sub-Saharan African countries. Their research confirms the importance of religious narratives and institutions in everything related to AIDS in Africa. Among other key findings, Trinitapoli and Weinreb show that a combination of religious and biomedical approaches to prevention reduces risk most effectively; that a significant minority of religious leaders encourage condom use; that Christian congregations in particular play a crucial role in easing suffering among the sick and their dependents; and that religious spaces in general are vital for disseminating information and developing new strategies for HIV prevention and AIDS mitigation. For anyone wishing to move beyond the rhetoric and ideology that plague debates about one of the most challenging crises of our time, *Religion and AIDS in Africa* is the authoritative account. It will change the way readers think about religious life and about AIDS in the region.
