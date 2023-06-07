@@ -7,11 +7,8 @@ author_profile: true
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 _____
-### Open Office Hours, Spring 2023
-Most Mondays in spring quarter, 3pm - 5pm
-Location: Social Sciecnes Research Building 414
-
-(cancelled -- due to travel -- April 24, May 8, May 29)
+### Open Office Hours
+will resume in October 2023
 
 Current PhD students: Please use my [wejoinin calendar](https://www.wejoinin.com/sheets/cvllm).
 <br>
