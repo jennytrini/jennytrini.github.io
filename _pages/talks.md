@@ -5,17 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Upcoming Talks
-October 13, 2023: Population Research Institute, Duke University
+## Upcoming Talks AY 2023-24
 
-October 21, 2023: UC Denver, Department of Health and Behavioral Sciences Colloquium
+To Be Announced
 
-Spring 2023 (date TBD): The Fertility and Reproduction Studies Group, Oxford University 
-
-April 25, 2023: Office of Population Research, Princeton University
 
 _____ 
 ## Archived Talks
+
+Office of Population Research, Princeton University, April 25, 2023. <a href="https://www.youtube.com/watch?v=-a_xnHedUaY"> Ten Years in Balaka</a>.
 
 African Population History Network (APHiN) and the LSHTM Population Studies Group, November 4, 2021. <a href="https://lshtm.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=ef5fb518-6dce-4b2b-a723-adec0062f281">Ten Years in Balaka, Malawi</a>. (Excerpt from book manuscript _An Epidemic of Uncertainty_.)
 
