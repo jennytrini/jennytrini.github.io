@@ -70,7 +70,7 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 ## Chapter 3: Uncertainty Demography
 
 ### Comprehension Questions
-WORKING ON THESE
+PLACEHOLDER: WORKING ON THESE
 
 ### Discussion Questions
 1. How do individuals respond differently to uncertainty, risk, or ignorance in their actions and decisions?
@@ -163,10 +163,10 @@ WORKING ON THESE
 5. Consider the discussion of the RBF4MNH policy in "Population Chatter at the Salon." What do these perceptions of public policy tell us about how patients, healthcare workers, and policymakers understand (or not) one another? 
 
 ### Exercises
-* TBA -- WORKING ON THIS -- Decomposition exercise: provide data and steps that allow students to learn through practice how decomposition analyses are calculated.
+* PLACEHOLDER -- WORKING ON THIS -- Decomposition exercise: provide data and steps that allow students to learn through practice how decomposition analyses are calculated.
 <br>
 
-## Chapter 7: CALL THE ANKHOSWE
+## Chapter 7: Call the Ankhoswe
 
 ### Comprehension Questions
 1. Who are the ankhoswe and what role do they play in marriage stability in Malawi?
