@@ -2,8 +2,8 @@
 layout: archive
 permalink: /studyguide/
 author_profile: true
+title: Study Guide for *An Epidemic of Uncertainty: Navigating HIV and Young Adulthood in Malawi*
 ---
-# Study Guide for *An Epidemic of Uncertainty: Navigating HIV and Young Adulthood in Malawi*
 
 Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Williams with the intention of making it easy for instructors to assign the book (or portions of it) in graduate or undergraduate courses. For each chapter, we provide three resources: **comprehension questions** designed to gauge how well students understood the reading, **discussion questions** designed to provoke open-ended conversation and debate in a classroom, and **exercises** that could be completed outside of class, as graded or ungraded assignments. We hope instructors take what is useful from these suggested questions and prompts. If you are using *An Epidemic of Uncertainty* in class, please write to share what worked well (and what didn't!) so we can keep updating this guide.
 
@@ -142,7 +142,7 @@ PLACEHOLDER: WORKING ON THESE
 * Take some inspiration from Kelvin Maigwa: Sketch a political cartoon that fits the themes of testing, uncertainty, and population-related phenomena. What makes y9our cartoon funny? Provocative? Complicated?
 <br>
 
-## Chapter 6: Relationship Uncertainty *& Marriage Instability
+## Chapter 6: Relationship Uncertainty & Marriage Instability
 
 ### Comprehension Questions
 1. How is "marital experience" defined in this chapter? How is HIV patterned by marital experience in this population?
