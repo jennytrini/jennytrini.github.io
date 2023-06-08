@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-#An Epidemic of Uncertainty: Navigating HIV and Young Adulthood in Malawi
+# An Epidemic of Uncertainty: Navigating HIV and Young Adulthood in Malawi
 
 Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Williams with the intention of making it easy for instructors to assign the book (or portions of it) in graduate or undergraduate courses. For each chapter, we provide three resources: **comprehension questions** designed to gauge how well students understood the reading, **discussion questions** designed to provoke open-ended conversation and debate in a classroom, and **exercises** that could be completed outside of class, as graded or ungraded assignments. We hope instructors take what is useful from these suggested questions and prompts. If you are using *An Epidemic of Uncertainty* in class, please write to share what worked well (and what didn't!) so we can keep updating this guide.
 
