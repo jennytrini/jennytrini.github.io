@@ -84,7 +84,6 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 2. Point 10 that follows Trinitapoli's definition of uncertainty claims that "uncertainty can be fruitful -- a productive condition that drives innovation and creativity." In pairs or small groups, discuss this claim. Who agrees? Disagress? What examples can you give of the fruitful side of uncertainty? What would happen to our live if it were eliminated completely?
 
 3. According to Point 8 that follows the definition: How can one rigorously distinguish one historical time period as being more or less uncertain than another. Who decides and how? Are these claims well supported? Or simply asserted?
-# 2. This chapter defines and studying uncertainty taking examples in the traditions of economics, sociology, and anthropology. Consider other disciplines in the social sciences - psychology, politics, criminology, even history. How would you expect scholars in these disciplines to engage with uncertainty in their research? What concerns do you believe are common to multiple disciplines or individual to one in particular?
 
 4. How does time factor into the very concept of uncertainty, both in the material covered in this chapter and in your own life experience?
 
