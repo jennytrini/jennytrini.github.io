@@ -3,8 +3,6 @@ layout: archive
 title: "Study Guide"
 permalink: /studyguide/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 # An Epidemic of Uncertainty: Navigating HIV and Young Adulthood in Malawi
 
@@ -73,17 +71,28 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 ## Chapter 3: Uncertainty Demography
 
 ### Comprehension Questions
-PLACEHOLDER: WORKING ON THESE
+1. In your own words, explain the difference between an independent variable and a dependent variable. What does the author mean by *micro* and *macro* as described in Figure 3.1? Relate these to the distinction between personal and aggregate experiences of uncertainty.
+
+2. Contrary to other scholars, Trinitapoli argues that uncertainty is measurable. What does this mean, exactly? And what does it mean for social scientists to find ``close proxies for uncertainty" in their datasets. Extending this to a discussion question: what unique ideas do you have about measures that might serve as good proxies for uncertainty, overlooked here?
+
+3. The author discusses several papers that leverage *variance* in their attempt to measure uncertainty. What is variance in the statistical sense? How does it relate to a mean/average? And why does the author believe that variance is often a good proxy for uncertainty?
 
 ### Discussion Questions
-1. How do individuals respond differently to uncertainty, risk, or ignorance in their actions and decisions?
 
-2. What are the most profound uncertainties in your society today? What kinds of uncertainties dominated your childhood (approx. ages 10-15)? Have any of these been resolved in the interim?
+1. What are the most profound uncertainties in your society today? What kinds of uncertainties dominated your childhood (approx. ages 10-15)? Have any of these been resolved in the interim?
 
-3. This chapter defines and studying uncertainty taking examples in the traditions of economics, sociology, and anthropology. Consider other disciplines in the social sciences - psychology, politics, criminology, even history. How would you expect scholars in these disciplines to engage with uncertainty in their research? What concerns do you believe are common to multiple disciplines or individual to one in particular?
+2. Point 10 that follows Trinitapoli's definition of uncertainty claims that "uncertainty can be fruitful -- a productive condition that drives innovation and creativity." In pairs or small groups, discuss this claim. Who agrees? Disagress? What examples can you give of the fruitful side of uncertainty? What would happen to our live if it were eliminated completely?
+
+3. According to Point 8 that follows the definition: How can one rigorously distinguish one historical time period as being more or less uncertain than another. Who decides and how? Are these claims well supported? Or simply asserted?
+# 2. This chapter defines and studying uncertainty taking examples in the traditions of economics, sociology, and anthropology. Consider other disciplines in the social sciences - psychology, politics, criminology, even history. How would you expect scholars in these disciplines to engage with uncertainty in their research? What concerns do you believe are common to multiple disciplines or individual to one in particular?
+
+4. How does time factor into the very concept of uncertainty, both in the material covered in this chapter and in your own life experience?
 
 ### Exercises
 * Before reading the chapter, write a definition of uncertainty based on your current understanding of the concept. Try to be precise, but write your definition using your own words and plain language. After reading the chapter, revise your definition to improve what you started with. What do you love about your definition? And what, if anything, is lacking? 
+* Book production takes time. Given a publication date in late 2023, the author probably finished revising this chapter sometime in 2022. Using library resources (i.e., PubMed, Web of Science, other scholarly databases), do a keyword search for *uncertainty* + *demography* or *uncertainty* + *fertility* (or some other permutation) to locate academic articles related to uncertainty and demography published since the author would have written this chapter. Choose 2 articles to read for mastery; write a rhetorical precis and include a proper bibliographic citation. In addition, be sure to mention where each paper would fit in the 2x2 table of micro vs. macro, dependent vs. independent variable. How do the findings in each paper you chose square with the key papers discussed in Chapter 3? 
+*With a partner, use your laptops to seach "Uncertain Times" in your favorite search engine. Spend about 10 minutes browsing the variety of pages that come up through such a search. Discuss the use and misuse of the term on the internet. Has the phrase been cliched beyond repair? From your browsing, which page uses the phrase with the most intellectual integrity? Which the least? 
+
 <!-- Write a set of scenarios that exemplify the four uncertainty-related concepts depicted in Figure 3.1: ambiguity, strong uncertainty, radical uncertainty, and Knightian uncertainty. Can you come up with a scenario that might belong somewhere else on this graph? Explain why your scenario does not fit one of the concepts defined in the text. -->
 <br>
 
