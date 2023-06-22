@@ -7,8 +7,7 @@ author_profile: true
 
 ## Upcoming Talks AY 2023-24
 
-To Be Announced
-
+NYU Abu Dhabi, Social Research and Public Policy Seminar, October 30, 2023
 
 _____ 
 ## Archived Talks
