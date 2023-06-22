@@ -10,7 +10,7 @@ redirect_from:
 
 about me
 ------
-I am an Associate Professor in the [Department of Sociology](https://sociology.uchicago.edu/) at the [University of Chicago](https://www.uchicago.edu), where I also direct the [Center for International Social Science Research](https://cissr.uchicago.edu/). I recently completed a 5-year term as director of sociology's [undergraduate program](https://sociology.uchicago.edu/content/undergraduate-major-0), and I chair the Global Society Core sequence for the Social Sciences.
+I am Professor in the [Department of Sociology](https://sociology.uchicago.edu/) at the [University of Chicago](https://www.uchicago.edu), where I also direct the [Center for International Social Science Research](https://cissr.uchicago.edu/). I recently completed a 5-year term as director of sociology's [undergraduate program](https://sociology.uchicago.edu/content/undergraduate-major-0), and I chair the Global Society Core sequence for the Social Sciences.
 
 My training is in two areas: social demography & the sociology of religion. Bridging these two fields, my work features the demographer’s characteristic concern with data quality and denominators and an insistence on connecting demographic processes to questions of meaning.
 
