@@ -174,7 +174,7 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 5. Consider the discussion of the RBF4MNH policy in "Population Chatter at the Salon." What do these perceptions of public policy tell us about how patients, healthcare workers, and policymakers understand (or not) one another? 
 
 ### Exercises
-* PLACEHOLDER -- WORKING ON THIS -- Decomposition exercise: provide data and steps that allow students to learn through practice how decomposition analyses are calculated.
+* PLACEHOLDER -- WORKING ON THIS -- Decomposition exercise: provide data and steps that allow students to learn through practice how decomposition analyses are calculated. This is a test
 <br>
 
 ## Chapter 7: Call the Ankhoswe
