@@ -183,7 +183,10 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 5. Consider the discussion of the RBF4MNH policy in "Population Chatter at the Salon." What do these perceptions of public policy tell us about how patients, healthcare workers, and policymakers understand (or not) one another? 
 
 ### Exercises
-* PLACEHOLDER -- WORKING ON THIS -- Decomposition exercise: provide data and steps that allow students to learn through practice how decomposition analyses are calculated. This is a test
+* PLACEHOLDER -- WORKING ON THIS -- Decomposition exercise: provide data and steps that allow students to learn through practice how decomposition analyses are calculated.
+
+* TLT respondents were asked if they agreed or disagreed with the statement “These days, most married men are faithful to their wives.” They were also asked if they thought their current partner had other partners on the side at any point in the relationship and given 4 possible responses to choose from — “Yeah, I know s/he does”, “I suspect so," “One can never know what another person does", and “Probably not”. Ask these two questions to your classmates and summarize your findings. Is there a general consensus of unfaithfulness similar to the one reached by TLT respondents? How can this perception of men affect the quality and length of romantic relationships?
+
 <br>
 
 ## Chapter 7: Call the Ankhoswe
