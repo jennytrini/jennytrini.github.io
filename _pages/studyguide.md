@@ -30,7 +30,9 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 
 ### Exercises
 * For next week, look for examples of the Thomas Theorem at work in your own social circles. Write a fieldnote-style journal entry about the consequences of a perception, regardless of whether the perception is accurate. 
+
 * Pick one of the four demographic concepts listed on page xxxx with which you are not already familiar. Using scholarly resources (library databases), what can you find out about the origins and development of this concept? Who advanced it and why? (What puzzle were they trying to solve?) Has it been used or supported in further studies? Has it been challenged, and by whom? (Use backward and forward citations to explore.)
+
 * Find three people who are not from your immediate social circle (grew up in a different town or state, different age, different socioeconomic background) and ask them each five of the following questions (does not have to be the same five for each person). Jot notes about their answers; then write a brief summary (3-4 paragraphs) summarizing what you learned.
 
 1. What do you think are the top three reasons people get married?
@@ -63,8 +65,11 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 
 ### Exercises:
 * Keep a journal like Gertrude’s. For 1-2 weeks, record your everyday conversations around a chosen topic (politics, family planning, or health care). You can include online chatter as well - posts written or shared by people you know personally, ideally those that generate conversation.
+
 * Listen for exchanges that represent population chatter about demographic processes. Record at least 10 such exchanges, and explain what is happening in the exchange that marks it as part of a demographic process.
+
 * Suppose you wanted to know how online dating has impacted young adults’ perception on relationships and marriage in England. Without budget constraints, design a study that would allow you to investigate this question. Ethical standards apply. How would you recruit respondents? What questions would you ask? How would you conduct your surveys (in what setting)? How often would you survey your respondents? For how long would you follow them? (Bonus: What imperfections would you predict arising in your data? How could you prevent or address them? Who would fund such a study and pay you to execute it?)
+
 * Using Figure 2.3 as inspiration, draw a Lexis-style figure with a lifeline for your birth cohort and lifelines for your youngest parent and grandparent. Drop vertical lines to indicate the most salient political events that occurred during your lifetimes (label these at the top) and more lines to represent major personal events that influenced your own life (label these at the bottom). How would you narrate the most important intersections in your personal Lexis diagram? Write 1-2 paragraphs summarizing.
 <br>
 
@@ -89,8 +94,10 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 
 ### Exercises
 * Before reading the chapter, write a definition of uncertainty based on your current understanding of the concept. Try to be precise, but write your definition using your own words and plain language. After reading the chapter, revise your definition to improve what you started with. What do you love about your definition? And what, if anything, is lacking? 
+
 * Book production takes time. Given a publication date in late 2023, the author probably finished revising this chapter sometime in 2022. Using library resources (i.e., PubMed, Web of Science, other scholarly databases), do a keyword search for *uncertainty* + *demography* or *uncertainty* + *fertility* (or some other permutation) to locate academic articles related to uncertainty and demography published since the author would have written this chapter. Choose 2 articles to read for mastery; write a rhetorical precis and include a proper bibliographic citation. In addition, be sure to mention where each paper would fit in the 2x2 table of micro vs. macro, dependent vs. independent variable. How do the findings in each paper you chose square with the key papers discussed in Chapter 3? 
-*With a partner, use your laptops to seach "Uncertain Times" in your favorite search engine. Spend about 10 minutes browsing the variety of pages that come up through such a search. Discuss the use and misuse of the term on the internet. Has the phrase been cliched beyond repair? From your browsing, which page uses the phrase with the most intellectual integrity? Which the least? 
+
+* With a partner, use your laptops to seach "Uncertain Times" in your favorite search engine. Spend about 10 minutes browsing the variety of pages that come up through such a search. Discuss the use and misuse of the term on the internet. Has the phrase been cliched beyond repair? From your browsing, which page uses the phrase with the most intellectual integrity? Which the least? 
 
 <!-- Write a set of scenarios that exemplify the four uncertainty-related concepts depicted in Figure 3.1: ambiguity, strong uncertainty, radical uncertainty, and Knightian uncertainty. Can you come up with a scenario that might belong somewhere else on this graph? Explain why your scenario does not fit one of the concepts defined in the text. -->
 <br>
@@ -117,10 +124,12 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 
 ### Exercises
 * Design a few beans questions of your own. Write 5-10 questions that could be asked on a scale of 0-10 where respondents answer by assessing the likelihood of an event occurring on a particular time horizon. Break into groups of 2-4 and take turns interviewing your classmates. Extra challenge: organize the questions as a survey researcher would, beginning with casual questions and gradually broaching the more sensitive topics. How would you engineer the conversation to put respondents at ease?
+
 * (Alternate) Draw a mini hazard model using synthetic data.
-%    - Provide an excel sheet with 100 “respondents” and 10 “waves”
-%    - Include instructions on how to calculate the proportion for each wave
-%    - Include a blank hazard model chart to be printed, models can be hand drawn on printed chart
+
+<! --  - Provide an excel sheet with 100 “respondents” and 10 “waves”
+  - Include instructions on how to calculate the proportion for each wave
+   - Include a blank hazard model chart to be printed, models can be hand drawn on printed chart -->
 <br>
 
 ## Chapter 5: HIV Uncertainty & the Limits of Testing
