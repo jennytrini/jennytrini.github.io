@@ -211,6 +211,8 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 
 ### Exercise
 * For next week, take notes on any comments, messages, or suggestions you encounter that relate to decisions about family formation: does your family say anything directly to you about what they expect or hope for? Do you see the shadow of the future looming over discussions with friends in explicit or implied ways? Do you discuss a potential/future family with friends, or come across ads or billboards encouraging certain behavior or outcome?
+
+* The author conveys the challenges of generating accurate estimates of sexual behavior from self-reports in surveys. To obtain more accurate estimates about the prevalence of concurrent partners in Malawi, Trinitapoli and Yeatman asked TLT respondents to report on their best friend's relationships. What other strategies have researchers utilized to get better estimates for research topics that are underreported, such as sexual behavior and drug use? Find 2-3 research articles that discuss these strategies and share your findings in small groups. 
 <br>
 
 ## Chapter 8: Ultimate Uncertainties and the Mortality Landscape
@@ -231,5 +233,6 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 
 ### Exercises
 * Using data from the [World Population Prospects](https://population.un.org/wpp/) database, create death distribution graphs from life tables for three other countries in/around 2020. Analyze these in comparison to figures 8.3 and 8.4. Come up with 5 empirical questions about demographic patterns in the countries you chose drawn from these comparisons.
+
 * Since the onset of COVID-19, gains and losses in life expectancy have been a topic of renewed interest in the popular press. Find two articles in the popular press that discuss changes to life expectancy, healthy life expectancy, or years lived with wellbeing. Skim them with the purpose of analyzing the fit between argument and evidence. Is life expectancy the right metric for supporting the argument? What other dimensions of the mortality landscape might the reporter have productively considered or explored?
 
