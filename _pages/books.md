@@ -12,7 +12,7 @@ Set in Balaka, Malawi, the book asks how young adults negotiate relationships, s
 
 Teachers interested in assigning this book in graduate or undergraduate courses can [request an exam copy](https://press.uchicago.edu/books/textadoption/requestHandler.html?path=/books/book/chicago/E/bo193398354). To facilitate classroom use, a [wonderful former student](https://www.linkedin.com/in/emily-jane-williams-uchicago) helped prepare a [study guide](https://jennytrini.com/studyguide/) to facilitate class discussion and suggest exercises students can complete, alongside the reading, to test and extend the book's key themes and ideas.
 
-### Table of Contents:
+### Table of Contents: <img align="right" src="https://github.com/jennytrini/jennytrini.github.io/blob/master/assets/images/9780226825717%5B19%5D.jpg"  width="20%" height="20%">
 1. Introduction: Surveying the Shadows of Uncertainty
 2. Ten Years in Balaka: The Excellent and Imperfect Data of Longitudinal Studies
 3. Uncertainty Demography
@@ -28,7 +28,7 @@ _____
 
 My first book came about through a serendipitous series of collaborations, notably with Alexander Weinreb, Susan Watkins, and Mark Regnerus; the project relies on data from the Malawi Diffusion and Ideational Change Project and the Demographic and Health Surveys Program. You can find the book [here](https://global.oup.com/academic/product/religion-and-aids-in-africa-9780195335941?cc=us&lang=en&) or listen to Alex and I discuss it in a [New Books Network podcast](https://newbooksnetwork.com/jenny-trinitapoli-and-alexander-weinreb-religion-and-aids-in-africa-oxford-up-2012) recorded back in 2012.
 
-### Table of Contents:
+### Table of Contents:  <img align="right" src="https://github.com/jennytrini/jennytrini.github.io/blob/master/assets/images/Religion%20and%20AIDS%20in%20Africa_Jacket%20Art.jpg"  width="30%" height="30%">
 Introduction
 
 Part One / THE BASICS
@@ -36,15 +36,18 @@ Part One / THE BASICS
 2. Religious Patterns
 
 Part Two / UNDERSTANDING AIDS
+
 3. Interpreting the Epidemic
 4. Knowledge about HIV
 
 Part Three / PREVENTING HIV
+
 5. The ABCs of prevention
 6. Beyond ABC: Local prevention strategies
 7. Congregational Combinations
 
 Part Four / RESPONDING
+
 8. Stigma
 9. Safety nets
 10. Effects of AIDS on Religion

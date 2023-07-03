@@ -125,11 +125,7 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 ### Exercises
 * Design a few beans questions of your own. Write 5-10 questions that could be asked on a scale of 0-10 where respondents answer by assessing the likelihood of an event occurring on a particular time horizon. Break into groups of 2-4 and take turns interviewing your classmates. Extra challenge: organize the questions as a survey researcher would, beginning with casual questions and gradually broaching the more sensitive topics. How would you engineer the conversation to put respondents at ease?
 
-* (Alternate) Draw a mini hazard model using synthetic data.
-
-<! --  - Provide an excel sheet with 100 “respondents” and 10 “waves”
-  - Include instructions on how to calculate the proportion for each wave
-   - Include a blank hazard model chart to be printed, models can be hand drawn on printed chart -->
+* Trinitapoli and Yeatman explain that HIV uncertainty in Malawi is associated with early or accelerated childbearing. Was this finding expected or surprising to you? In small groups, research examples of other cases of uncertainty related to human survival and well-being (ex. economic crises, political conflict, famine, etc.) and try to determine whether this pattern of accelerated childrearing is specific to HIV and Malawi or something broader. Can you find cases where uncertainty operates differently, perhaps delaying child bearing? 
 <br>
 
 ## Chapter 5: HIV Uncertainty & the Limits of Testing
@@ -158,8 +154,10 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 
 ### Exercises
 * Imagine you are working for a communications team designed to promote population health. Design a "Know Your Status" poster or cartoon for a condition other than HIV. Explain why you chose the visuals and slogan that you did. How would you disseminate this campaign in your [a relevant] community?
+  
 * (In pairs or small groups) Design a mini-study. Come up with a question that you could ask twice (before and after) and an intervention that would provide each respondent with new information or a chance to reinterpret their answer. Example: "How much you weigh?" before and after measureing weight with a scale.  Analyze and interpret the results. Did the new information change your respondents' answers?
-* Take some inspiration from Kelvin Maigwa: Sketch a political cartoon that fits the themes of testing, uncertainty, and population-related phenomena. What makes y9our cartoon funny? Provocative? Complicated?
+  
+* Take some inspiration from Kelvin Maigwa: Sketch a political cartoon that fits the themes of testing, uncertainty, and population-related phenomena. What makes your cartoon funny? Provocative? Complicated?
 <br>
 
 ## Chapter 6: Relationship Uncertainty & Marriage Instability
@@ -183,7 +181,10 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 5. Consider the discussion of the RBF4MNH policy in "Population Chatter at the Salon." What do these perceptions of public policy tell us about how patients, healthcare workers, and policymakers understand (or not) one another? 
 
 ### Exercises
-* PLACEHOLDER -- WORKING ON THIS -- Decomposition exercise: provide data and steps that allow students to learn through practice how decomposition analyses are calculated. This is a test
+* This is likely to have been your first exposure to the idea of decomposition analyses. Without responsibility for conducting any analyses yourself, get into pairs and try to come up with 2-3 examples of social change that may be driven by compositional effects, rather than changing rates. Then, using library resources, do a search for scientific articles to determine if any scholars have used decomposition analyses to answer the question. What did they find?
+
+* TLT respondents were asked if they agreed or disagreed with the statement “These days, most married men are faithful to their wives.” They were also asked if they thought their current partner had other partners on the side at any point in the relationship and given 4 possible responses to choose from — “Yeah, I know s/he does”, “I suspect so," “One can never know what another person does", and “Probably not”. Ask these two questions to your classmates and summarize your findings. Is there a general consensus of unfaithfulness similar to the one reached by TLT respondents? How can this perception of men affect the quality and length of romantic relationships?
+
 <br>
 
 ## Chapter 7: Call the Ankhoswe
@@ -210,6 +211,8 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 
 ### Exercise
 * For next week, take notes on any comments, messages, or suggestions you encounter that relate to decisions about family formation: does your family say anything directly to you about what they expect or hope for? Do you see the shadow of the future looming over discussions with friends in explicit or implied ways? Do you discuss a potential/future family with friends, or come across ads or billboards encouraging certain behavior or outcome?
+
+* The author conveys the challenges of generating accurate estimates of sexual behavior from self-reports in surveys. To obtain more accurate estimates about the prevalence of concurrent partners in Malawi, Trinitapoli and Yeatman asked TLT respondents to report on their best friend's relationships. What other strategies have researchers utilized to get better estimates for research topics that are underreported, such as sexual behavior and drug use? Find 2-3 research articles that discuss these strategies and share your findings in small groups. 
 <br>
 
 ## Chapter 8: Ultimate Uncertainties and the Mortality Landscape
@@ -230,5 +233,6 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 
 ### Exercises
 * Using data from the [World Population Prospects](https://population.un.org/wpp/) database, create death distribution graphs from life tables for three other countries in/around 2020. Analyze these in comparison to figures 8.3 and 8.4. Come up with 5 empirical questions about demographic patterns in the countries you chose drawn from these comparisons.
+
 * Since the onset of COVID-19, gains and losses in life expectancy have been a topic of renewed interest in the popular press. Find two articles in the popular press that discuss changes to life expectancy, healthy life expectancy, or years lived with wellbeing. Skim them with the purpose of analyzing the fit between argument and evidence. Is life expectancy the right metric for supporting the argument? What other dimensions of the mortality landscape might the reporter have productively considered or explored?
 
