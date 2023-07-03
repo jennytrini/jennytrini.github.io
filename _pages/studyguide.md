@@ -6,7 +6,7 @@ author_profile: true
 ---
 # An Epidemic of Uncertainty: Navigating HIV and Young Adulthood in Malawi
 
-Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Williams with the intention of making it easy for instructors to assign the book (or portions of it) in graduate or undergraduate courses. For each chapter, we provide three resources: **comprehension questions** designed to gauge how well students understood the reading, **discussion questions** designed to provoke open-ended conversation and debate in a classroom, and **exercises** that could be completed outside of class, as graded or ungraded assignments. We hope instructors take what is useful from these suggested questions and prompts. If you are using *An Epidemic of Uncertainty* in class, please write to share what worked well (and what didn't!) so we can keep updating this guide.
+Note: This study guide was developed jointly by Jenny Trinitapoli, Emily Williams, and Stephanie Achugamonu with the intention of making it easy for instructors to assign the book (or portions of it) in graduate or undergraduate courses. For each chapter, we provide three resources: **comprehension questions** designed to gauge how well students understood the reading, **discussion questions** designed to provoke open-ended conversation and debate in a classroom, and **exercises** that could be completed outside of class, as graded or ungraded assignments. We hope instructors take what is useful from these suggested questions and prompts. If you are using *An Epidemic of Uncertainty* in class, please write to share what worked well (and what didn't!) so we can keep updating this guide.
 
 ## Chapter 1: Introduction: Surveying the Shadows of Uncertainty
 
@@ -125,11 +125,7 @@ Note: This study guide was developed jointly by Jenny Trinitapoli and Emily Will
 ### Exercises
 * Design a few beans questions of your own. Write 5-10 questions that could be asked on a scale of 0-10 where respondents answer by assessing the likelihood of an event occurring on a particular time horizon. Break into groups of 2-4 and take turns interviewing your classmates. Extra challenge: organize the questions as a survey researcher would, beginning with casual questions and gradually broaching the more sensitive topics. How would you engineer the conversation to put respondents at ease?
 
-* (Alternate) Draw a mini hazard model using synthetic data.
-
-<! --  - Provide an excel sheet with 100 “respondents” and 10 “waves”
-  - Include instructions on how to calculate the proportion for each wave
-   - Include a blank hazard model chart to be printed, models can be hand drawn on printed chart -->
+* Trinitapoli explains that HIV uncertainty is associated with early or accelerated childbearing. Did you expect this trend to emerge? In small groups, research examples of other cases of uncertainty related to human survival and well-being (ex. Economic crises, political conflict, famine, etc.) and determine if this pattern of accelerated childrearing is consistent. Can you find cases where uncertainty delayed child bearing? 
 <br>
 
 ## Chapter 5: HIV Uncertainty & the Limits of Testing
