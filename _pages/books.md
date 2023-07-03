@@ -36,15 +36,18 @@ Part One / THE BASICS
 2. Religious Patterns
 
 Part Two / UNDERSTANDING AIDS
+
 3. Interpreting the Epidemic
 4. Knowledge about HIV
 
 Part Three / PREVENTING HIV
+
 5. The ABCs of prevention
 6. Beyond ABC: Local prevention strategies
 7. Congregational Combinations
 
 Part Four / RESPONDING
+
 8. Stigma
 9. Safety nets
 10. Effects of AIDS on Religion
