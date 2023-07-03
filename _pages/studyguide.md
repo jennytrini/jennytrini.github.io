@@ -154,8 +154,10 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 
 ### Exercises
 * Imagine you are working for a communications team designed to promote population health. Design a "Know Your Status" poster or cartoon for a condition other than HIV. Explain why you chose the visuals and slogan that you did. How would you disseminate this campaign in your [a relevant] community?
+  
 * (In pairs or small groups) Design a mini-study. Come up with a question that you could ask twice (before and after) and an intervention that would provide each respondent with new information or a chance to reinterpret their answer. Example: "How much you weigh?" before and after measureing weight with a scale.  Analyze and interpret the results. Did the new information change your respondents' answers?
-* Take some inspiration from Kelvin Maigwa: Sketch a political cartoon that fits the themes of testing, uncertainty, and population-related phenomena. What makes y9our cartoon funny? Provocative? Complicated?
+  
+* Take some inspiration from Kelvin Maigwa: Sketch a political cartoon that fits the themes of testing, uncertainty, and population-related phenomena. What makes your cartoon funny? Provocative? Complicated?
 <br>
 
 ## Chapter 6: Relationship Uncertainty & Marriage Instability
@@ -179,7 +181,7 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 5. Consider the discussion of the RBF4MNH policy in "Population Chatter at the Salon." What do these perceptions of public policy tell us about how patients, healthcare workers, and policymakers understand (or not) one another? 
 
 ### Exercises
-* PLACEHOLDER -- WORKING ON THIS -- Decomposition exercise: provide data and steps that allow students to learn through practice how decomposition analyses are calculated.
+* This is likely to have been your first exposure to the idea of decomposition analyses. Without responsibility for conducting any analyses yourself, get into pairs and try to come up with 2-3 examples of social change that may be driven by compositional effects, rather than changing rates. Then, using library resources, do a search for scientific articles to determine if any scholars have used decomposition analyses to answer the question. What did they find?
 
 * TLT respondents were asked if they agreed or disagreed with the statement “These days, most married men are faithful to their wives.” They were also asked if they thought their current partner had other partners on the side at any point in the relationship and given 4 possible responses to choose from — “Yeah, I know s/he does”, “I suspect so," “One can never know what another person does", and “Probably not”. Ask these two questions to your classmates and summarize your findings. Is there a general consensus of unfaithfulness similar to the one reached by TLT respondents? How can this perception of men affect the quality and length of romantic relationships?
 
