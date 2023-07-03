@@ -7,6 +7,8 @@ author_profile: true
 
 ## Upcoming Talks AY 2023-24
 
+University of Bologna, The Inequality of Uncertainty Conference, October 23-24, 2023
+
 NYU Abu Dhabi, Social Research and Public Policy Seminar, October 30, 2023
 
 _____ 
