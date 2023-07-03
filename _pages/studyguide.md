@@ -125,7 +125,7 @@ Note: This study guide was developed jointly by Jenny Trinitapoli, Emily William
 ### Exercises
 * Design a few beans questions of your own. Write 5-10 questions that could be asked on a scale of 0-10 where respondents answer by assessing the likelihood of an event occurring on a particular time horizon. Break into groups of 2-4 and take turns interviewing your classmates. Extra challenge: organize the questions as a survey researcher would, beginning with casual questions and gradually broaching the more sensitive topics. How would you engineer the conversation to put respondents at ease?
 
-* Trinitapoli explains that HIV uncertainty is associated with early or accelerated childbearing. Did you expect this trend to emerge? In small groups, research examples of other cases of uncertainty related to human survival and well-being (ex. Economic crises, political conflict, famine, etc.) and determine if this pattern of accelerated childrearing is consistent. Can you find cases where uncertainty operates differently, perhaps delaying child bearing? 
+* Trinitapoli and Yeatman explain that HIV uncertainty in Malawi is associated with early or accelerated childbearing. Was this finding expected or surprising to you? In small groups, research examples of other cases of uncertainty related to human survival and well-being (ex. economic crises, political conflict, famine, etc.) and try to determine whether this pattern of accelerated childrearing is specific to HIV and Malawi or something broader. Can you find cases where uncertainty operates differently, perhaps delaying child bearing? 
 <br>
 
 ## Chapter 5: HIV Uncertainty & the Limits of Testing
