@@ -12,7 +12,7 @@ Set in Balaka, Malawi, the book asks how young adults negotiate relationships, s
 
 Teachers interested in assigning this book in graduate or undergraduate courses can [request an exam copy](https://press.uchicago.edu/books/textadoption/requestHandler.html?path=/books/book/chicago/E/bo193398354). To facilitate classroom use, a [wonderful former student](https://www.linkedin.com/in/emily-jane-williams-uchicago) helped prepare a [study guide](https://jennytrini.com/studyguide/) to facilitate class discussion and suggest exercises students can complete, alongside the reading, to test and extend the book's key themes and ideas.
 
-### Table of Contents: <img align="right" src="https://github.com/jennytrini/jennytrini.github.io/blob/master/assets/images/9780226825717%5B19%5D.jpg"  width="20%" height="20%">
+### Table of Contents: <img align="right" src="../assets/images/9780226825717%5B19%5D.jpg"  width="20%" height="20%">
 1. Introduction: Surveying the Shadows of Uncertainty
 2. Ten Years in Balaka: The Excellent and Imperfect Data of Longitudinal Studies
 3. Uncertainty Demography
