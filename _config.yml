@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jenny Trinitapoli"
-  avatar           : "profile.png"
+  avatar           : "../assets/images/profile.png"
   bio              : "Professor of Sociology"
   location         : "Chicago, IL"
   employer         : "University of Chicago"
