@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Study Guide"
 permalink: /studyguide/
 author_profile: true
