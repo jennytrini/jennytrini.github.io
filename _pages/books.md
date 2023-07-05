@@ -32,26 +32,22 @@ My first book came about through a serendipitous series of collaborations, notab
 Introduction
 
 Part One / THE BASICS
-
-1. AIDS in Context
-2. Religious Patterns
+- Chapter 1. AIDS in Context
+- Chapter 2. Religious Patterns
 
 Part Two / UNDERSTANDING AIDS
-
-3. Interpreting the Epidemic
-4. Knowledge about HIV
+- Chapter 3. Interpreting the Epidemic
+- Chapter 4. Knowledge about HIV
 
 Part Three / PREVENTING HIV
-
-5. The ABCs of prevention
-6. Beyond ABC: Local prevention strategies
-7. Congregational Combinations
+- Chapter 5. The ABCs of Prevention
+- Chapter 6. Beyond ABC: Local Prevention Strategies
+- Chapter 7. Congregational Combinations
 
 Part Four / RESPONDING
-
-8. Stigma
-9. Safety nets
-10. Effects of AIDS on Religion
+- Chapter 8. Stigma
+- Chapter 9. Safety Nets
+- Chpater 10. Effects of AIDS on Religion
 
 Conclusions
 
