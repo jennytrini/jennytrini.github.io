@@ -36,13 +36,13 @@ Part One / THE BASICS
 - Chapter 2. Religious Patterns
 
 Part Two / UNDERSTANDING AIDS
-- Chapter 3. Interpreting the Epidemic
+- Chapter 3. Interpreting the AIDS Epidemic
 - Chapter 4. Knowledge about HIV
 
 Part Three / PREVENTING HIV
 - Chapter 5. The ABCs of Prevention
 - Chapter 6. Beyond ABC: Local Prevention Strategies
-- Chapter 7. Congregational Combinations
+- Chapter 7. Institutionalized Religious Strategies
 
 Part Four / RESPONDING
 - Chapter 8. Stigma
