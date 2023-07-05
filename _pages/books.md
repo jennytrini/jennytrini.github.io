@@ -28,7 +28,7 @@ _____
 
 My first book came about through a serendipitous series of collaborations, notably with Alexander Weinreb, Susan Watkins, and Mark Regnerus; the project relies on data from the Malawi Diffusion and Ideational Change Project and the Demographic and Health Surveys Program. You can find the book [here](https://global.oup.com/academic/product/religion-and-aids-in-africa-9780195335941?cc=us&lang=en&) or listen to Alex and I discuss it in a [New Books Network podcast](https://newbooksnetwork.com/jenny-trinitapoli-and-alexander-weinreb-religion-and-aids-in-africa-oxford-up-2012) recorded back in 2012.
 
-### Table of Contents:  <img align="right" src="https://github.com/jennytrini/jennytrini.github.io/blob/master/assets/images/Religion%20and%20AIDS%20in%20Africa_Jacket%20Art.jpg"  width="30%" height="30%">
+### Table of Contents:  <img align="right" src="../assets/images/Religion%20and%20AIDS%20in%20Africa_Jacket%20Art.jpg"  width="30%" height="30%">
 Introduction
 
 Part One / THE BASICS
