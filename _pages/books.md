@@ -31,22 +31,23 @@ My first book came about through a serendipitous series of collaborations, notab
 ### Table of Contents:  <img align="right" src="../assets/images/Religion%20and%20AIDS%20in%20Africa_Jacket%20Art.jpg"  width="30%" height="30%">
 Introduction
 
-Part One / THE BASICS
+Part One: THE BASICS
+
 1. AIDS in Context
 2. Religious Patterns
 
-Part Two / UNDERSTANDING AIDS
+Part Two: UNDERSTANDING AIDS
 
 3. Interpreting the Epidemic
 4. Knowledge about HIV
 
-Part Three / PREVENTING HIV
+Part Three: PREVENTING HIV
 
 5. The ABCs of prevention
 6. Beyond ABC: Local prevention strategies
 7. Congregational Combinations
 
-Part Four / RESPONDING
+Part Four: RESPONDING
 
 8. Stigma
 9. Safety nets
