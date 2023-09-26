@@ -8,17 +8,18 @@ skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospect
 
 _____
 ### Open Office Hours
-will resume in October 2023
-
-Current PhD students: Please use my [wejoinin calendar](https://www.wejoinin.com/sheets/cvllm).
+Autumn Quarter: Wednesdays 2pm - 4pm
+Location: Social Sciences Research Building 414
+Note: Office hours will not be held on Wednesday, November 1 due to travel obligations
 <br>
-
 _____
 ###Courses at UChicago
 ## Courses Planned for AY 2023-24
 Autumn 2023: Principles of Sociological Research
+
 Winter 2024: Global Society II
 Winter 2024: Logic of Social Inquiry (with Prof. Marco Garrido)
+
 Spring 2024: NONE
 
 ### Previous Academic Years
