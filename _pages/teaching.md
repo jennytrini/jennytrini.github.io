@@ -7,7 +7,7 @@ author_profile: true
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 _____
-### Open Office Hours
+### Office Hours
 Autumn Quarter 2023: Wednesdays 2pm - 4pm
 Location: Social Sciences Research Building 414
 Note: Office hours will not be held on Wednesday, November 1 due to travel obligations
