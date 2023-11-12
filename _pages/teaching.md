@@ -7,13 +7,13 @@ author_profile: true
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 _____
-### Office Hours
+## Office Hours
 Autumn Quarter 2023: Wednesdays 2pm - 4pm
 Location: Social Sciences Research Building 414
 <br>
 _____
-### Teaching at UChicago
-## Courses Planned for AY 2023-24
+## Teaching at UChicago
+### Courses Planned for AY 2023-24
 Autumn 2023: Principles of Sociological Research
 
 Winter 2024: Global Society II
@@ -22,28 +22,28 @@ Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)
 Spring 2024: NONE
 
 ## Previous Academic Years
-# AY 2022-23
+### AY 2022-23
 Winter 2023: Data Analysis with Demographic and Health Surveys
 Winter 2023: Global Society II
 Winter 2023: Making Population: The Unnatural History of Counting and Classifying Humans
 
 _____
-### UChicago Workshops I Participate In
+## UChicago Workshops I Participate In
   [**PRC Demography Workshop**](https://voices.uchicago.edu/popcenter/workshops/demography-workshop/) Hosted by the Population Research Center at the University of Chicago, this weekly workshop is where demographers gather to exchange ideas about works-in-progress. I expect the UChicago students I advise to attend regularly.
   
   [**African Studies Workshop**](https://africanstudies.uchicago.edu/news/current-schedule/) A bi-weekly workshop hosted by the Committee on African Studies at the University of Chicago. Possibly the longest-continuously-running workshop on our campus.
   
 _____
-### For Prospective PhD Students
+## For Prospective PhD Students
 I advise PhD students working in the areas of fertility and family formation, religion and social change, and sexual and reproductive health, including HIV & AIDS. 
  
 Some additional notes for prospective graduate students:
-- Information about our program can be found here: https://sociology.uchicago.edu/graduate-study
-- If you are writing to find out if I might supervise you, the answer is that I might, but our department does not accept PhD students to work under the supervision of a single faculty member, and individual faculty members don’t make admissions decisions. (We use an admissions committee model). If you apply and are admitted into the program, we will begin a conversation about working together.
+- Information about our program can be found [**here**]( https://sociology.uchicago.edu/graduate-study).
+- If you are writing to find out if I might supervise your research, the answer is that I might, but our department does not accept PhD students to work under the supervision of a single faculty member, and individual faculty members don’t make admissions decisions. (We have a committee model). If you apply and are admitted into the program, we can begin a conversation about working together.
 - I cannot advise prospective students during the application process or interview them before the application deadline. The sociology department will hold interviews with short-listed candidates after all of the applications have been assessed. 
 
 _____
-### For UChicago Students Requesting Letters of Recommendation 
+## For UChicago Students Requesting Letters of Recommendation 
 
 Graduate and undergraduate students often need letters of recommendation to pursue a variety of goals (jobs, fellowships, graduate programs, etc.) If I can strongly recommend you based on prior coursework or interactions through a research assistantship, I will agree to serve as a letter-writer. If I don't know you well enough to write a strong and honest letter that conveys specific information about your strengths and weaknesses, I will let you know that you'd be better served by asking someone else. Please keep in mind that I get nearly 50 LOR requests each year, and a good letter takes me almost a full day to write, so I cannot respond positively to all requests. 
 
