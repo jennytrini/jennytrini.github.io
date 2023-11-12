@@ -22,8 +22,8 @@ Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)
 
 Spring 2024: NONE
 
-### Previous Academic Years
-##AY 2022-23
+## Previous Academic Years
+# AY 2022-23
 Winter 2023: Data Analysis with Demographic and Health Surveys
 Winter 2023: Global Society II
 Winter 2023: Making Population: The Unnatural History of Counting and Classifying Humans
@@ -45,7 +45,7 @@ Graduate and undergraduate students often need letters of recommendation to purs
 
 If I agree to provide you with a LOR, here are some things you can do to help me with the letter-writing task. Send: 
 - Your resume or CV
-- Any application materials you sent in with your application
+- Drafts of all the application materials you will submit with your application
 - 1-2 pages of bullet points about things you’d like me to cover or speak to. This explanation of “bullet points” is [stolen from website of a colleague at Princeton](https://scholar.princeton.edu/bstewart/recommendation) Bullet points are not a draft letter but a summary of points you want in my mind as I write. Please send me an actual document (pdf or word), as this is easier for me to keep track of than an email. Please include:
  - A brief statement about who else is writing your letters and what if anything that you are hoping my letter will speak to that your other writers cannot (e.g. I am the only person who has seen your data-wrangling skills and you want me to speak to that.)
  - Any application-specific requirements or suggestions about what the letter should contain.
