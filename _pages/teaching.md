@@ -10,10 +10,9 @@ _____
 ### Office Hours
 Autumn Quarter 2023: Wednesdays 2pm - 4pm
 Location: Social Sciences Research Building 414
-Note: Office hours will not be held on Wednesday, November 1 due to travel obligations
 <br>
 _____
-### Courses at UChicago
+### Teaching at UChicago
 ## Courses Planned for AY 2023-24
 Autumn 2023: Principles of Sociological Research
 
@@ -36,8 +35,13 @@ _____
   
 _____
 ### For Prospective PhD Students
-I am looking to advise PhD students working in the areas of fertility and family formation, religion and social change, and sexual and reproductive health, including HIV & AIDS. 
-  
+I advise PhD students working in the areas of fertility and family formation, religion and social change, and sexual and reproductive health, including HIV & AIDS. 
+ 
+Some additional notes for prospective graduate students:
+- Information about our program can be found here: https://sociology.uchicago.edu/graduate-study
+- If you are writing to find out if I might supervise you, the answer is that I might, but our department does not accept PhD students to work under the supervision of a single faculty member, and individual faculty members don’t make admissions decisions. (We use an admissions committee model). If you apply and are admitted into the program, we will begin a conversation about working together.
+- I cannot advise prospective students during the application process or interview them before the application deadline. The sociology department will hold interviews with short-listed candidates after all of the applications have been assessed. 
+
 _____
 ### For UChicago Students Requesting Letters of Recommendation 
 
