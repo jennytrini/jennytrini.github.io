@@ -21,7 +21,6 @@ Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)
 
 Spring 2024: NONE
 
-## Previous Academic Years
 ### AY 2022-23
 Winter 2023: Data Analysis with Demographic and Health Surveys
 Winter 2023: Global Society II
