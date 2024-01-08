@@ -8,7 +8,7 @@ skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospect
 
 _____
 ## Office Hours
-Autumn Quarter 2023: Wednesdays 2pm - 4pm
+Winter Quarter 2024: Tuesdays 2pm - 4pm
 Location: Social Sciences Research Building 414
 <br>
 _____
