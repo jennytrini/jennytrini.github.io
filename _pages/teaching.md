@@ -10,7 +10,7 @@ _____
 ## Office Hours
 Winter Quarter 2024: Tuesdays 2pm - 4pm
 Location: Social Sciences Research Building 414
-NOTE: Irregular office hours on Tuesday, January 16th; instead of the usual time OO will be held from 3:30pm to 5:30pm
+NOTE: Irregular office hours on Tuesday, January 16th; instead of the usual time OO will be held from 3:15pm to 4:50pm
 <br>
 _____
 ## Teaching at UChicago
