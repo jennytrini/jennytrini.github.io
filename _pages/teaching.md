@@ -7,11 +7,11 @@ author_profile: true
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 _____
-## Office Hours
-Winter Quarter 2024: Tuesdays 2pm - 4pm
+## Office Hours Winter Quarter 2024
+Office hours are open (i.e., no appointments needed): Tuesdays 2pm - 4pm
 Location: Social Sciences Research Building 414
-NOTE: Irregular office hours on Tuesday, January 16th; instead of the usual time OO will be held from 3:15pm to 4:50pm
-<br>
+NOTE: Irregular office hours on Tuesday, January 16th, from 3:15pm to 4:50pm
+
 _____
 ## Teaching at UChicago
 ### Courses Planned for AY 2023-24
