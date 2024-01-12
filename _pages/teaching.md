@@ -23,9 +23,9 @@ Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)
 Spring 2024: NONE
 
 ### AY 2022-23
-Winter 2023: Data Analysis with Demographic and Health Surveys
-Winter 2023: Global Society II
-Winter 2023: Making Population: The Unnatural History of Counting and Classifying Humans
+<p>Winter 2023: Data Analysis with Demographic and Health Surveys</p>
+<p>Winter 2023: Global Society II</p>
+<p>Winter 2023: Making Population: The Unnatural History of Counting and Classifying Humans</p>
 
 _____
 ## UChicago Workshops I Participate In
