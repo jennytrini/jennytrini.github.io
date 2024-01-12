@@ -8,16 +8,16 @@ skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospect
 
 _____
 ## Office Hours Winter Quarter 2024
-Office hours are open (i.e., no appointments needed): Tuesdays 2pm - 4pm
-Location: Social Sciences Research Building 414
-NOTE: Irregular office hours on Tuesday, January 16th, from 3:15pm to 4:50pm
+<p>Office hours are open (i.e., no appointments needed): Tuesdays 2pm - 4pm</p>
+<p>Location: Social Sciences Research Building 414</p>
+<p>NOTE: Irregular office hours on Tuesday, January 16th, from 3:15pm to 4:50pm</p>
 
 _____
 ## Teaching at UChicago
 ### Courses Planned for AY 2023-24
 Autumn 2023: Principles of Sociological Research
 
-Winter 2024: Global Society II
+<p>Winter 2024: Global Society II</p>
 Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)
 
 Spring 2024: NONE
