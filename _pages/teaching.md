@@ -7,10 +7,11 @@ author_profile: true
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 _____
-## Office Hours Winter Quarter 2024
-<p>Office hours are open (i.e., no appointments needed): Tuesdays 2pm - 4pm</p>
+## Office Hours 2024
+<p>NO OFFICE HOURS DUE TO TRAVEL: March 5, 12,</p>
+<p>Office hours are open (i.e., no appointments needed)</p>
+<p>Spring Quarter Schedule: TBA before March 18th </p>
 <p>Location: Social Sciences Research Building 414</p>
-<p>NOTE: Irregular office hours on Tuesday, January 16th, from 3:15pm to 4:50pm</p>
 
 _____
 ## Teaching at UChicago
