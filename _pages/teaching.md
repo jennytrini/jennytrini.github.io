@@ -8,20 +8,23 @@ skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospect
 
 _____
 ## Office Hours 2024
-<p>NO OFFICE HOURS DUE TO TRAVEL: March 5, 12,</p>
-<p>Office hours are open (i.e., no appointments needed)</p>
+<p>NO OFFICE HOURS DUE TO TRAVEL: March 5, 12</p>
 <p>Spring Quarter Schedule: TBA before March 18th </p>
 <p>Location: Social Sciences Research Building 414</p>
 
 _____
 ## Teaching at UChicago
-### Courses Planned for AY 2023-24
-Autumn 2023: Principles of Sociological Research
 
+### Courses Planned for AY 2024-25
+<p>Autumn 2024: Population (Grad)<p>
+<p>Winter 2025: Global Society II</p>
+<p>Winter 2025: Demographic Techniques (co-taught with Luciana Luz, Universidade Federal de Minas Gerais</p>
+
+###  AY 2023-24
+<p>Autumn 2023: Principles of Sociological Research<p>
 <p>Winter 2024: Global Society II</p>
-Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)
+<p>Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)<p>
 
-Spring 2024: NONE
 
 ### AY 2022-23
 <p>Winter 2023: Data Analysis with Demographic and Health Surveys</p>
