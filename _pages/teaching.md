@@ -20,7 +20,7 @@ _____
 <p>Winter 2025: Global Society II</p>
 <p>Winter 2025: Demographic Techniques (co-taught with Luciana Luz, Universidade Federal de Minas Gerais</p>
 
-###  AY 2023-24
+### AY 2023-24
 <p>Autumn 2023: Principles of Sociological Research<p>
 <p>Winter 2024: Global Society II</p>
 <p>Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)<p>
