@@ -14,6 +14,8 @@ NYU Abu Dhabi, Social Research and Public Policy Seminar, October 30, 2023
 Centro de Desenvolvimento e Planejamento Regional (Cedeplar), Universidade Federal de Minas Gerais, November 22, 2023 (virtual)
 
 Rutgers HIV Research Group, November 28, 2023 (virtual)
+
+Berkeley Demography Brownbag, March 6, 2024
  
 _____ 
 ## Archived Talks
