@@ -18,7 +18,7 @@ _____
 ### Courses Planned for AY 2024-25
 <p>Autumn 2024: Population (Grad)</p>
 <p>Winter 2025: Global Society II</p>
-<p>Winter 2025: Demographic Techniques (co-taught with Luciana Luz, Universidade Federal de Minas Gerais</p>
+<p>Winter 2025: Demographic Techniques (co-taught with Luciana Luz, Universidade Federal de Minas Gerais)</p>
 
 ### AY 2023-24
 <p>Autumn 2023: Principles of Sociological Research</p>
