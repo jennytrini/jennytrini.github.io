@@ -1,4 +1,4 @@
----
+=---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
@@ -7,8 +7,8 @@ author_profile: true
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 _____
-## Office Hours 2024
-<p>Spring Quarter Schedule: Limited \& Ad Hoc; sign up [here](https://www.wejoinin.com/sheets/cvllm).</p>
+## Office Hours Spring 2024
+Limited & Ad Hoc: Please sign up [**here**](https://www.wejoinin.com/sheets/cvllm).
 <p>Location: Social Sciences Research Building 414</p>
 
 _____
@@ -47,7 +47,7 @@ Some additional notes for prospective graduate students:
 _____
 ## For UChicago Students Requesting Letters of Recommendation 
 
-Graduate and undergraduate students often need letters of recommendation to pursue a variety of goals (jobs, fellowships, graduate programs, etc.) If I can strongly recommend you based on prior coursework or interactions through a research assistantship, I will agree to serve as a letter-writer. If I don't know you well enough to write a strong and honest letter that conveys specific information about your strengths and weaknesses, I will let you know that you'd be better served by asking someone else. Please keep in mind that I get nearly 50 LOR requests each year, and a good letter takes me almost a full day to write, so I cannot respond positively to all requests. 
+Graduate and undergraduate students often need letters of recommendation to pursue a variety of goals (jobs, fellowships, graduate programs, etc.) If I can strongly recommend you based on prior coursework or interactions through a research assistantship, I will agree to serve as a letter-writer. If I don't know you well enough to write a strong and honest letter that conveys specific information about your strengths and weaknesses, I will let you know that you'd be better served by asking someone else. Please keep in mind that I get nearly 30 LOR requests each year, and a good letter takes me almost a full day to write, so I cannot respond positively to all requests. 
 
 If I agree to provide you with a LOR, here are some things you can do to help me with the letter-writing task. Send: 
 - Your resume or CV
