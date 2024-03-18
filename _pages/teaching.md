@@ -24,6 +24,7 @@ _____
 <p>Winter 2024: Global Society II</p>
 <p>Winter 2024: Logic of Social Inquiry (co-taught with Prof. Marco Garrido)</p>
 
+
 ### AY 2022-23
 <p>Winter 2023: Data Analysis with Demographic and Health Surveys</p>
 <p>Winter 2023: Global Society II</p>
