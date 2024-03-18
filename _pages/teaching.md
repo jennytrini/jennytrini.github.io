@@ -8,8 +8,7 @@ skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospect
 
 _____
 ## Office Hours 2024
-<p>NO OFFICE HOURS DUE TO TRAVEL: March 5, 12</p>
-<p>Spring Quarter Schedule: TBA before March 18th </p>
+<p>Spring Quarter Schedule: Limited \& Ad Hoc; sign up [here](https://www.wejoinin.com/sheets/cvllm).</p>
 <p>Location: Social Sciences Research Building 414</p>
 
 _____
