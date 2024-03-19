@@ -1,4 +1,4 @@
-=---
+---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
@@ -7,8 +7,8 @@ author_profile: true
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 _____
-## Office Hours Spring 2024
-<p>Limited & Ad Hoc: Sign up [**here**](https://www.wejoinin.com/sheets/cvllm)</p>.
+## Office Hours Spring 2024: Limited and ad hoc due to travel and committee obligations
+<p>Sign up [**here**](https://www.wejoinin.com/sheets/cvllm)</p>.
 <p>Location: Social Sciences Research Building 414</p>
 
 _____
