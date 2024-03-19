@@ -16,6 +16,8 @@ Centro de Desenvolvimento e Planejamento Regional (Cedeplar), Universidade Feder
 Rutgers HIV Research Group, November 28, 2023 (virtual)
 
 Berkeley Demography Brownbag, March 6, 2024
+
+Dondena Center, Bocconi University, April 8, 2024
  
 _____ 
 ## Archived Talks
