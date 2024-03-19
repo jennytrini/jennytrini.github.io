@@ -8,7 +8,7 @@ skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospect
 
 _____
 ## Office Hours Spring 2024: Limited and ad hoc due to travel and committee obligations
-Sign up [here](https://www.wejoinin.com/sheets/cvllm/).
+Sign up [here](https://www.wejoinin.com/sheets/cvllm)
 <p>Location: Social Sciences Research Building 414</p>
 
 _____
