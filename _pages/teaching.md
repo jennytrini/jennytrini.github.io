@@ -7,8 +7,8 @@ author_profile: true
 skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospective PhD Students](#prospective) | [Workshops](#workshops) | [Requesting Letters](#letters)
 
 _____
-## Office Hours Spring 2024: Limited and ad hoc due to travel and committee obligations
-Sign up [here](https://www.wejoinin.com/sheets/cvllm)
+## Office Hours: Autumn 2024
+<p>Wednesdays, 2pm - 4pm<p>
 <p>Location: Social Sciences Research Building 414</p>
 
 _____
