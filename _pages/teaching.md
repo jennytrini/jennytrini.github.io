@@ -9,7 +9,9 @@ skip to: [Office Hours](#calendar) | [Current Courses](#courses) | [For Prospect
 _____
 ## Office Hours: Autumn 2024
 <p>Wednesdays, 2pm - 4pm</p>
+<p>PLEASE NOTE: No office hours (due to travel) on October 30th </p>
 <p>Location: Social Sciences Research Building 414</p>
+
 
 _____
 ## Teaching at UChicago

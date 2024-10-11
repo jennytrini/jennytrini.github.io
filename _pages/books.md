@@ -23,6 +23,17 @@ Teachers interested in assigning this book in graduate or undergraduate courses 
 8. Ultimate Uncertainties and the Mortality Landscape
 9. Conclusion: Varieties of Uncertainty in Balaka
 
+### Reviewed In
+Population and Development Review
+The Lancet
+Social Forces
+Contemporary Sociology
+
+### Awards
+ASA Section on Sociology of Population’s Otis Dudley Duncan Award 2024
+ASA Section on the Sociology of Development’s Book Award 2024
+ASA Section on Medical Sociology’s Eliot Friedson Outstanding Publication Award 2024 (Honorable Mention)
+Seminary Co-op Notable Book 2023
 _____
 ## Religion and AIDS in Africa
 
